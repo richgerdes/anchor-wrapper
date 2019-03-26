@@ -2,6 +2,7 @@
     "name": "roygoldman/anchor-wrapper",
     "description": "Anchor CMS Installation Wrapper",
     "type": "library",
+    "license": "GPL-3.0",
     "authors": [
         {
             "name": "Rich Gerdes",
