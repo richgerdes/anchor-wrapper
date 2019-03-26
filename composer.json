@@ -8,5 +8,8 @@
             "email": "rich@richgerdes.com"
         }
     ],
-    "require": {}
+    "require": {
+        "composer/installers": "^1",
+        "anchorcms/anchor-cms": "^0.12.7"
+    }
 }
